@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\art stuff\\paperzdlearning\\paperzdlearning\\source\\paperzdlearning\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\art stuff\\paperzdlearning\\paperzdlearning\\intermediate\\build\\win64\\x64\\paperzdlearningeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\art stuff\\paperzdlearning\\paperzdlearning\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\paperzdlearning\\definitions.paperzdlearning.h",
+            "d:\\art stuff\\paperzdlearning\\paperzdlearning\\source\\paperzdlearning\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PaperZDLearning",
+			"Path": "..\\Source\\PaperZDLearning.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PaperZDLearningEditor",
+			"Path": "..\\Source\\PaperZDLearningEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

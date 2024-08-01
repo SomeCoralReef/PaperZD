@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PaperZDLearning.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Art Stuff\PaperZDLearning\PaperZDLearning\Intermediate\Build\Win64\x64\PaperZDLearningEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\Art Stuff\PaperZDLearning\PaperZDLearning\Intermediate\Build\Win64\x64\UnrealEditor\Development\PaperZDLearning\MyClass.cpp.obj"
+"D:\Art Stuff\PaperZDLearning\PaperZDLearning\Intermediate\Build\Win64\x64\UnrealEditor\Development\PaperZDLearning\PaperZDLearning.cpp.obj"
+"D:\Art Stuff\PaperZDLearning\PaperZDLearning\Intermediate\Build\Win64\x64\UnrealEditor\Development\PaperZDLearning\Default.rc2.res"
+/OUT:"D:\Art Stuff\PaperZDLearning\PaperZDLearning\Intermediate\Build\Win64\x64\UnrealEditor\Development\PaperZDLearning\UnrealEditor-PaperZDLearning.lib"
